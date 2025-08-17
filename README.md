@@ -50,6 +50,18 @@ _My personal website and blog (Next.js + Tailwind)._
 
 ---
 
+## 🏆 Trophies  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=egnoatt&theme=tokyonight&row=1)  
+
+---
+
+## 👀 Profile Visitors  
+
+![Profile Views](https://komarev.com/ghpvc/?username=egnoatt&style=flat-square&color=blue)  
+
+---
+
 ## 🌍 Connect with me  
 [🌐 Website](https://gnoatto.pro)  
 [💼 LinkedIn](https://linkedin.com/in/enricognoatto)  
