@@ -1,72 +1,45 @@
-# 👋 Hi, I'm Enrico Gnoatto  
+# Hi, I'm Enrico Gnoatto
 
-🚀 **Project Manager & Digital Innovator**  
-AI • SaaS • Data • Automation  
+**Tech Builder with a Managerial Mindset**  
+SME Platforms • Organizational Maturity • AI • Data • SaaS
 
-I have 20+ years of experience managing complex projects in pharma, engineering, and digital transformation.  
-Currently focused on **AI applications, SaaS platforms, and organizational innovation for SMEs**.  
+I design and build **decision-support platforms** for SMEs, turning assessments,
+benchmarks, and data into clear priorities and actionable roadmaps.
 
----
-
-## 🛠️ Tech & Tools  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+I have 20+ years of experience delivering complex projects across pharma, engineering,
+and digital transformation, combining hands-on technology with governance and execution.
 
 ---
 
-## 📌 Featured Projects  
+## Core Focus
 
-🔹 [**Sales KPI Dashboard**](https://github.com/egnoatt/kpi_dashboard)  
-_A data-driven dashboard for car dealership performance built with Supabase & Streamlit._  
-
-🔹 [**RoboSense**](https://github.com/egnoatt/robosense-frontend)  
-_AI-powered SaaS for real-time telemetry and race performance improvement._  
-
-🔹 [**SME Organizational Maturity Test**](https://github.com/egnoatt/portfolio-starter-kit)  
-_A Next.js app to benchmark SMEs’ digital & organizational maturity._  
-
-🔹 [**Portfolio Website**](https://github.com/egnoatt/enrico-portfolio-blog)  
-_My personal website and blog (Next.js + Tailwind)._  
+- **SME Organizational Maturity Platforms**
+- Decision-support systems and benchmarking frameworks
+- AI-enabled insights with governance-by-design
+- Data-driven dashboards and SaaS architectures
+- From idea intake to strategy and execution
 
 ---
 
-## 📊 GitHub Stats  
+## Featured Projects
 
-![Enrico's GitHub Stats](https://github-readme-stats.vercel.app/api?username=egnoatt&show_icons=true&theme=tokyonight)  
+🔹 **[SME Organizational Maturity Platform](https://github.com/egnoatt/enrico-portfolio-blog)**  
+_A benchmark and decision-support framework to assess and improve organizational,
+digital, and managerial maturity in SMEs._
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egnoatt&layout=compact&theme=tokyonight)  
-
----
-
-## 🔥 Streak Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=egnoatt&theme=tokyonight&hide_border=true)  
+🔹 **[RoboSense](https://github.com/egnoatt/robosense-frontend)**  
+_AI-powered SaaS for real-time telemetry and performance optimization._
 
 ---
 
-## 🏆 Trophies  
+## Tech Stack (selected)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=egnoatt&theme=tokyonight&row=1)  
-
----
-
-## 👀 Profile Visitors  
-
-![Profile Views](https://komarev.com/ghpvc/?username=egnoatt&style=flat-square&color=blue)  
+Next.js • Supabase • React • Python • Docker • GitHub Actions • Streamlit • Tailwind CSS
 
 ---
 
-## 🌍 Connect with me  
-[🌐 Website](https://gnoatto.pro)  
-[💼 LinkedIn](https://linkedin.com/in/enricognoatto)  
-📧 enrico@gnoatto.pro  
+## Connect
 
----
-
-⭐ _Always exploring how AI and open-source can transform businesses._
+- Website: https://gnoatto.pro  
+- LinkedIn: https://linkedin.com/in/enricognoatto  
+- Email: enrico@gnoatto.pro
