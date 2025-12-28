@@ -1,6 +1,6 @@
 # Hi, I'm Enrico Gnoatto
 
-**Tech Builder with a Managerial Mindset**
+**Tech Builder with a Managerial Mindset**  
 Building SME maturity & decision-support platforms
 
 I design and build **decision-support platforms** for SMEs, turning assessments,
