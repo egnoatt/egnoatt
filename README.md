@@ -1,5 +1,7 @@
 # Hi, I'm Enrico Gnoatto
 
+🇮🇹 Italian version: [README.it.md](./README.it.md)
+
 **Tech builder focused on SME maturity, advisor support, structured execution, and practical AI/data tools.**
 
 I build small, usable systems that help turn assessments, data, and expert judgment into clearer priorities and better decisions.
