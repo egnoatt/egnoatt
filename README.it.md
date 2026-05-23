@@ -27,11 +27,15 @@ Il mio lavoro combina esperienza di project management e sviluppo pratico su app
 
 Sito personale e spazio di scrittura sui temi di esecuzione strutturata, maturità delle PMI, strumenti digitali e AI pratica.
 
+### [solid-overlay-viewer](https://github.com/egnoatt/solid-overlay-viewer)
+
+Dimostratore open-source React/Three.js per sovrapporre mesh sintetiche e point cloud sintetiche in un viewer 3D client-side.
+
 ### [Sabina_site](https://github.com/egnoatt/Sabina_site)
 
 Implementazione pubblica di un sito realizzato con Next.js, TypeScript, Tailwind CSS, metadati SEO, miglioramenti di accessibilità e deploy su Vercel.
 
-Altri repository pubblici saranno aggiunti qui quando saranno pronti per essere condivisi in modo pulito.
+Altri repository pubblici potranno essere aggiunti qui quando saranno pronti per essere condivisi in modo pulito.
 
 ---
 
