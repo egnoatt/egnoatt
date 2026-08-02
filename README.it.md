@@ -2,7 +2,7 @@
 
 🇬🇧 English version: [README.md](./README.md)
 
-**Tech builder orientato a maturità delle PMI, supporto ai consulenti, esecuzione strutturata e strumenti pratici basati su AI e dati.**
+**Tech builder orientato a sistemi di supporto decisionale, esecuzione strutturata, software attento alla governance e strumenti pratici basati su AI per consulenti e PMI.**
 
 Costruisco strumenti semplici e utilizzabili che aiutano a trasformare valutazioni, dati e giudizio esperto in priorità più chiare e decisioni migliori.
 
@@ -14,9 +14,9 @@ Il mio lavoro combina esperienza di project management e sviluppo pratico su app
 
 - Strumenti per maturità organizzativa delle PMI e supporto ai consulenti
 - Workflow di decision support assistiti da AI
+- Sistemi orientati alla governance per evidenze, tracciabilità ed esecuzione controllata
 - Dashboard, report e utility riutilizzabili per dati
 - Strumenti di visualizzazione per analisi tecniche e operative
-- Product thinking attento a tracciabilità e responsabilità
 - Esperimenti tecnici creativi con codice, AI e workflow musicali
 
 ---
@@ -34,6 +34,8 @@ Dimostratore open-source React/Three.js per sovrapporre mesh sintetiche e point 
 ### [Sabina_site](https://github.com/egnoatt/Sabina_site)
 
 Implementazione pubblica di un sito realizzato con Next.js, TypeScript, Tailwind CSS, metadati SEO, miglioramenti di accessibilità e deploy su Vercel.
+
+Altri lavori comprendono repository privati dedicati a framework di governance, esecuzione strutturata, sperimentazione AI e ricerca di prodotto. Restano privati mentre sono in sviluppo attivo.
 
 Altri repository pubblici potranno essere aggiunti qui quando saranno pronti per essere condivisi in modo pulito.
 

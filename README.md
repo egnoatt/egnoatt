@@ -2,7 +2,7 @@
 
 🇮🇹 Italian version: [README.it.md](./README.it.md)
 
-**Tech builder focused on SME maturity, advisor support, structured execution, and practical AI/data tools.**
+**Tech builder focused on decision-support systems, structured execution, governance-aware software, and practical AI tools for advisors and SMEs.**
 
 I build small, usable systems that help turn assessments, data, and expert judgment into clearer priorities and better decisions.
 
@@ -14,9 +14,9 @@ My work combines project management experience with hands-on development across 
 
 - SME maturity and advisor-support tools
 - AI-assisted decision-support workflows
+- Governance-aware systems for evidence, traceability, and controlled execution
 - Dashboards, reports, and reusable data utilities
 - Visualization tools for technical and operational analysis
-- Governance-aware product thinking
 - Creative technical experiments with code, AI, and music workflows
 
 ---
@@ -34,6 +34,8 @@ Open-source React/Three.js demonstrator for overlaying synthetic mesh and point-
 ### [Sabina_site](https://github.com/egnoatt/Sabina_site)
 
 Public website implementation built with Next.js, TypeScript, Tailwind CSS, SEO metadata, accessibility improvements, and Vercel deployment.
+
+Other work includes private repositories for governance frameworks, structured execution, AI experimentation, and product research. They remain private while under active development.
 
 Additional public repositories may be added here when they are ready to be shared cleanly.
 
