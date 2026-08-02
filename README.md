@@ -71,5 +71,5 @@ Additional public repositories may be added here when they are ready to be share
 ## Connect
 
 - Website: [gnoatto.pro](https://gnoatto.pro)
-- LinkedIn: [linkedin.com/in/enricognoatto](https://linkedin.com/in/enricognoatto)
+- LinkedIn: [linkedin.com/in/enrico-gnoatto](https://linkedin.com/in/enrico-gnoatto)
 - Email: [enrico@gnoatto.pro](mailto:enrico@gnoatto.pro)
