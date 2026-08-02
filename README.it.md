@@ -71,5 +71,5 @@ Altri repository pubblici potranno essere aggiunti qui quando saranno pronti per
 ## Contatti
 
 - Website: [gnoatto.pro](https://gnoatto.pro)
-- LinkedIn: [linkedin.com/in/enricognoatto](https://linkedin.com/in/enricognoatto)
+- LinkedIn: [linkedin.com/in/enrico-gnoatto](https://linkedin.com/in/enrico-gnoatto)
 - Email: [enrico@gnoatto.pro](mailto:enrico@gnoatto.pro)
