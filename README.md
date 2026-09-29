@@ -2,11 +2,11 @@
 
 🇮🇹 Italian version: [README.it.md](./README.it.md)
 
-**Tech builder focused on decision-support systems, structured execution, governance-aware software, and practical AI tools for advisors and SMEs.**
+**I work at the intersection of complex projects, engineering, governance, and practical digital tools.**
 
-I build small, usable systems that help turn assessments, data, and expert judgment into clearer priorities and better decisions.
+Alongside my project and governance experience, I build small, usable systems that help turn assessments, data, and expert judgment into clearer priorities and better decisions.
 
-My work combines project management experience with hands-on development across web apps, data workflows, AI-assisted analysis, and visualization.
+This repository is the technical/builder side of that work: web apps, data workflows, AI-assisted analysis, decision-support tools, and visualization.
 
 ---
 
