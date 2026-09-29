@@ -2,11 +2,11 @@
 
 🇬🇧 English version: [README.md](./README.md)
 
-**Tech builder orientato a sistemi di supporto decisionale, esecuzione strutturata, software attento alla governance e strumenti pratici basati su AI per consulenti e PMI.**
+**Lavoro all'intersezione tra progetti complessi, engineering, governance e strumenti digitali concreti.**
 
-Costruisco strumenti semplici e utilizzabili che aiutano a trasformare valutazioni, dati e giudizio esperto in priorità più chiare e decisioni migliori.
+Accanto alla mia esperienza nel project management e nella governance, costruisco sistemi semplici e utilizzabili che aiutano a trasformare valutazioni, dati e giudizio esperto in priorità più chiare e decisioni migliori.
 
-Il mio lavoro combina esperienza di project management e sviluppo pratico su applicazioni web, workflow dati, analisi assistita da AI e visualizzazione.
+Questo repository rappresenta il lato tecnico/builder di quel lavoro: applicazioni web, workflow dati, analisi assistita da AI, strumenti di supporto decisionale e visualizzazione.
 
 ---
 
